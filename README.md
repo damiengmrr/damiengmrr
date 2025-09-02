@@ -1,7 +1,8 @@
 # 👨‍💻 Damien Gamarra
 
 🎓 Étudiant en Bachelor Informatique à Ynov Campus Montpellier  
---> Vice-Président du Bureau des étudiants Ynov Montpellier
+--> Vice-Président du Bureau des étudiants Ynov Montpellier 
+
 💼 En recherche de stage ou d’alternance (dev, back-end, Front-end, cybersécurité)  
 📍 Montpellier | 📧 damien.gamarra.pro@gmail.com 
 
